@@ -9,16 +9,13 @@
 - <i class="fa fa-linkedin-square"> [batman](https://linkedin.com/in/batman)</i>
 - <i class="fa fa-github"> [batman](https://github.com/[this link is broken])</i>
 
-<!-- <link rel="stylesheet" href="./font-awesome.min.css"> -->
-
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a summary. -->
+A wealthy American playboy, philanthropist, and industrialist who resides in Gotham City.
 
 ## Skills
 - Python
-- JavaScript
-- TYpeScript
-- HTML
-- CSS
+- JavaScript, TypeScript
+- HTML, CSS
 - Whatever
 
 ## Employment history
@@ -54,7 +51,8 @@
 *This is summary in smaller font*
 
 ## Education
-### Yale?, really?
+### Yale?
 - Criminal Science <span style="float: right;">**Start - Finish**</span>
 - Forensic Sciences <span style="float: right;">**Begining - Ending**</span>
+
 
